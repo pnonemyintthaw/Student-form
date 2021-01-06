@@ -1,0 +1,16 @@
+[
+    {
+        "name": "testing",
+        "email": "phonemyintthaw17@gmail.com",
+        "gender": "male",
+        "address": "asdf",
+        "profile": "photo\/"
+    },
+    {
+        "name": "testing two",
+        "email": "phonemyintthaw17@gmail.com",
+        "gender": "female",
+        "address": "hfjg",
+        "profile": "photo\/"
+    }
+]
